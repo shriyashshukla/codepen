@@ -1,0 +1,17 @@
+/* components/Editor.module.css */
+.editor {
+    flex: 1;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .textarea {
+    flex: 1;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
